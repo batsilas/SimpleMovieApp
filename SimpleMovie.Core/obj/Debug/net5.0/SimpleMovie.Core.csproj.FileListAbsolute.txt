@@ -1,0 +1,17 @@
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\DocumentDB.Spatial.Sql.dll
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\SimpleMovie.Core.deps.json
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\SimpleMovie.Core.runtimeconfig.json
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\SimpleMovie.Core.runtimeconfig.dev.json
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\SimpleMovie.Core.dll
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\ref\SimpleMovie.Core.dll
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\bin\Debug\net5.0\SimpleMovie.Core.pdb
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.csproj.AssemblyReference.cache
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.AssemblyInfoInputs.cache
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.AssemblyInfo.cs
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.csproj.CoreCompileInputs.cache
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.dll
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\ref\SimpleMovie.Core.dll
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.pdb
+C:\Users\Batsilas\Documents\SimpleMovie\SimpleMovie.Core\obj\Debug\net5.0\SimpleMovie.Core.genruntimeconfig.cache
